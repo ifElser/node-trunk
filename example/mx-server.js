@@ -1,6 +1,6 @@
 'use strict';
 
-let Trunk = require('./trunk');
+let Trunk = require('../index');
 let net = require('net');
 
 // create something, wich give your a stream
