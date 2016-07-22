@@ -1,0 +1,20 @@
+{
+  "name": "node-trunk",
+  "version": "0.1.0",
+  "description": "universal streams multyplexor",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "streams",
+    "vlan",
+    "trunk",
+    "multyplexing"
+  ],
+  "author": "js-coder@mail.ru",
+  "license": "MIT"
+}
