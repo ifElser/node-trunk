@@ -1,6 +1,13 @@
 # node-trunk
 universal streams multyplexor which allow create any number of isolated data channels in a single stream, like a multiple vlans in a single trunk, but don`t limited by count to 4096
 
+###Install:
+```bash
+npm i node-trunk -S
+```
+
+###Usage:
+
 make it for server:
 ```js
 'use strict';
