@@ -87,4 +87,4 @@ let client = net.createConnection(32167, () => {
 
 ```
 ###TODO:
-Developing of L2 commutation and IP tunneling through node-trunk, using [node-nfqueue](https://github.com/atoy40/node-nfqueue  "netfilter queue binding for node.js") or [raw-socket](https://www.npmjs.com/package/raw-socket  "This module implements raw sockets for Node.js.")
+Developing of L2 commutation and IP tunneling through node-trunk, using [node-nfqueue](https://github.com/atoy40/node-nfqueue  "netfilter queue binding for node.js") and [raw-socket](https://www.npmjs.com/package/raw-socket  "This module implements raw sockets for Node.js.")
