@@ -8,6 +8,8 @@ npm i node-trunk -S
 
 ### Usage:
 
+![Trunk scheme](/trunk.png)
+
 make it for server:
 ```js
 'use strict';
